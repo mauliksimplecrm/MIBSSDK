@@ -19,6 +19,7 @@ Pod::Spec.new do |spec|
   spec.version      = "0.1.0"
   spec.summary      = "iOS SDK for Hello World"
 
+
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
   #   * Try to keep it short, snappy and to the point.
