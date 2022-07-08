@@ -8,13 +8,16 @@
 
 /* Begin PBXBuildFile section */
 		691B06C72877FD5D0009F3F4 /* MIBSSDK.h in Headers */ = {isa = PBXBuildFile; fileRef = 691B06C62877FD5D0009F3F4 /* MIBSSDK.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		691B06CE2877FDD70009F3F4 /* MIBSSDK.swift in Sources */ = {isa = PBXBuildFile; fileRef = 691B06CD2877FDD70009F3F4 /* MIBSSDK.swift */; };
+		691B06EF28780FB90009F3F4 /* MIBSInit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 691B06E7287806EC0009F3F4 /* MIBSInit.swift */; };
+		691B06F42878112C0009F3F4 /* FirstVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 691B06F32878112C0009F3F4 /* FirstVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		691B06C32877FD5D0009F3F4 /* MIBSSDK.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = MIBSSDK.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		691B06C62877FD5D0009F3F4 /* MIBSSDK.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MIBSSDK.h; sourceTree = "<group>"; };
-		691B06CD2877FDD70009F3F4 /* MIBSSDK.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MIBSSDK.swift; sourceTree = "<group>"; };
+		691B06E7287806EC0009F3F4 /* MIBSInit.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MIBSInit.swift; sourceTree = "<group>"; };
+		691B06F32878112C0009F3F4 /* FirstVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstVC.swift; sourceTree = "<group>"; };
+		6966C25728783D7300283D3A /* Main.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -31,7 +34,6 @@
 		691B06B92877FD5D0009F3F4 = {
 			isa = PBXGroup;
 			children = (
-				691B06CD2877FDD70009F3F4 /* MIBSSDK.swift */,
 				691B06C52877FD5D0009F3F4 /* MIBSSDK */,
 				691B06C42877FD5D0009F3F4 /* Products */,
 			);
@@ -49,6 +51,9 @@
 			isa = PBXGroup;
 			children = (
 				691B06C62877FD5D0009F3F4 /* MIBSSDK.h */,
+				691B06E7287806EC0009F3F4 /* MIBSInit.swift */,
+				691B06F32878112C0009F3F4 /* FirstVC.swift */,
+				6966C25728783D7300283D3A /* Main.storyboard */,
 			);
 			path = MIBSSDK;
 			sourceTree = "<group>";
@@ -92,6 +97,7 @@
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1310;
 				LastUpgradeCheck = 1310;
 				TargetAttributes = {
 					691B06C22877FD5D0009F3F4 = {
@@ -133,7 +139,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				691B06CE2877FDD70009F3F4 /* MIBSSDK.swift in Sources */,
+				691B06EF28780FB90009F3F4 /* MIBSInit.swift in Sources */,
+				691B06F42878112C0009F3F4 /* FirstVC.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -284,10 +291,11 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.DomeMe.MIBSSDK;
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
 				SKIP_INSTALL = YES;
+				SUPPORTS_MACCATALYST = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -313,9 +321,10 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.DomeMe.MIBSSDK;
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
 				SKIP_INSTALL = YES;
+				SUPPORTS_MACCATALYST = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};

@@ -92,8 +92,9 @@ Pod::Spec.new do |spec|
   #  Not including the public_header_files will make all headers public.
   #
 
-  spec.source_files  = "MIBSSDK/**/*.{h,m,swift}"
-  # spec.exclude_files = "MIBSSDK/Exclude"
+  spec.source_files  = "MIBSSDK/**/*.{swift,h,m}"
+  spec.resources = "MIBSSDK/**/*.{storyboard,xib,xcassets,strings}"
+  spec.exclude_files = "MIBSSDK/Exclude"
 
   # spec.public_header_files = "MIBSSDK/**/*.h"
 
