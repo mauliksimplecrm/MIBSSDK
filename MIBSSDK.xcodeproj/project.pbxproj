@@ -10,6 +10,7 @@
 		691B06C72877FD5D0009F3F4 /* MIBSSDK.h in Headers */ = {isa = PBXBuildFile; fileRef = 691B06C62877FD5D0009F3F4 /* MIBSSDK.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		691B06EF28780FB90009F3F4 /* MIBSInit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 691B06E7287806EC0009F3F4 /* MIBSInit.swift */; };
 		691B06F42878112C0009F3F4 /* FirstVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 691B06F32878112C0009F3F4 /* FirstVC.swift */; };
+		69BFEB592879563500B5649A /* MIBSHeader.h in Headers */ = {isa = PBXBuildFile; fileRef = 69BFEB582879563500B5649A /* MIBSHeader.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -18,6 +19,7 @@
 		691B06E7287806EC0009F3F4 /* MIBSInit.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MIBSInit.swift; sourceTree = "<group>"; };
 		691B06F32878112C0009F3F4 /* FirstVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstVC.swift; sourceTree = "<group>"; };
 		6966C25728783D7300283D3A /* Main.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
+		69BFEB582879563500B5649A /* MIBSHeader.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MIBSHeader.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 				691B06E7287806EC0009F3F4 /* MIBSInit.swift */,
 				691B06F32878112C0009F3F4 /* FirstVC.swift */,
 				6966C25728783D7300283D3A /* Main.storyboard */,
+				69BFEB582879563500B5649A /* MIBSHeader.h */,
 			);
 			path = MIBSSDK;
 			sourceTree = "<group>";
@@ -65,6 +68,7 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				69BFEB592879563500B5649A /* MIBSHeader.h in Headers */,
 				691B06C72877FD5D0009F3F4 /* MIBSSDK.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
