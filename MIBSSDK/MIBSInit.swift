@@ -9,19 +9,19 @@ import Foundation
 import UIKit
 
 
-public class MIBSInit {
+@objc public class MIBSInit: NSObject {
     let hello = "Hello"
-    public var uv:UIViewController!
+    @objc public var uv:UIViewController!
     
-    public init(uv:UIViewController) {
+    @objc public init(uv:UIViewController) {
         self.uv = uv
     }
 
-    public func hello(to whom: String) -> String {
+    @objc public func hello(to whom: String) -> String {
         return "Hello \(whom)"
     }
     
-    public func loadData(){
+    @objc public func loadData(){
         let frameworkBundle = Bundle(for: type(of: self))
         let storyboard = UIStoryboard(name: "Main", bundle: frameworkBundle)
         let vc = storyboard.instantiateViewController(withIdentifier: "FirstVC") as! FirstVC
