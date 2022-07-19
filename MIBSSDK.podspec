@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "MIBSSDK"
-  spec.version      = "1.0.0"
+  spec.version      = "1.0.1"
   spec.summary      = "iOS SDK for Hello World"
 
 
@@ -138,5 +138,27 @@ Pod::Spec.new do |spec|
 
   # spec.xcconfig = { "HEADER_SEARCH_PATHS" => "$(SDKROOT)/usr/include/libxml2" }
   # spec.dependency "JSONKit", "~> 1.4"
+
+  spec.static_framework = true
+
+  spec.dependency "IQKeyboardManagerSwift"
+  spec.dependency "Reachability"
+  spec.dependency "Toast-Swift"
+  spec.dependency "DropDown"
+  spec.dependency "Popover"
+  spec.dependency "Alamofire"
+  spec.dependency "AlamofireImage", "~> 4.1"
+  spec.dependency "SKCountryPicker"
+  spec.dependency "ActionSheetPicker-3.0"
+  spec.dependency "SwiftyJSON"
+  spec.dependency "ObjectMapper"
+  spec.dependency "SDWebImage"
+  spec.dependency "Lightbox"
+  spec.dependency "MBDocCapture"
+  spec.dependency "FSCalendar"
+  spec.dependency "Firebase"
+  spec.dependency "Firebase/Core"
+  spec.dependency "GoogleMLKit/FaceDetection"
+  spec.dependency "JitsiMeetSDK"
 
 end

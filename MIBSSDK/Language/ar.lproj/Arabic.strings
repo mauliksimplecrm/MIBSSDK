@@ -1,0 +1,390 @@
+/* 
+  Arabic.strings
+  Maisarah
+
+  Created by Maulik Vora on 10/03/22.
+  
+*/
+
+"Choose one"="قم بالإختيار ";
+"Choose one detail"="يرجى اختيار أحد الخيارات التالية";
+"ResumeAccountOpennig_title"="استمر في فتح الحساب";
+"ResumeAccountOpennig_detail"="الاستمرار في تقديم طلب مسبق ";
+"StartAccountOpening_title"="ابدأ عملية فتح الحساب";
+"StartAccountOpening_detail"="البدء في تقديم طلب جديد";
+"ScheduleVideoCall_title"="جدول مكالمة فيديو";
+"ScheduleVideoCall_detail"="جدولة مكالمة فيديو مع موظف خدمة الزبائن ";
+"CheckApplicationStatus_title"="تحقق من حالة الطلب";
+"CheckApplicationStatus_detail"="مراجعة حالة تقديم طلب فتح حساب";
+
+"Select Account Type"="اختر نوع الحساب";
+"Select Account Type detail"="مراجعة تفاصيل الحساب قبل الاختيار";
+"Saving Account"="حساب توفير";
+"Saving Account Detail"="Brief Detail of Saving Account - MCC to update";
+"Saving Account Detail 2"="يقوم حساب ميسرة للتوفير ذو العوائد العالية على مبدأ المضاربة، ويتيح للزبائن الحصول على معدلات ربح متوقعة تنافسية سنويًا (تخضع للأوزان المعمول بها لكل شهر).";
+"Current Account"="حساب جاري";
+"Current Account Detail"="Brief Detail of Current  Account - MCC to update";
+"Current Account Detail 2"="يقوم الحساب الجاري على مبدأ القرض الحسن، ويتطلب إيداع الحد الأدنى 200 ريال عماني لفتح الحساب. ";
+"Prize Account"="حساب الجائزة";
+"Prize Account Detail"="Brief Detail of Prize Account - MCC to update";
+"Prize Account Detail 2"="Maisarah Saving Account is based on the Islamic concept of Mudarabah. It offers attractive expected profit rates per annum (subject to applicable weightages for each month).";
+"GOT IT"="تم";
+
+"Schedule a Call"="جدول مكالمة فيديو";
+
+"Enter details"="ادخل البيانات المطلوبة";
+"Enter details detail"="يرجى إدخال رقم الهاتف لاستكمال تقديم الطلب";
+"Mobile Number"="رقم الهاتف";
+"Email ID"="البريد الإلكتروني";
+
+"NEXT"="التالي";
+
+"Verify Mobile"="تأكيد رقم الهاتف";
+"Please enter the 4 digit code we've sent to your phone no"="يرجى إدخال الرمز المؤقت المكون من 4 أرقام الذي تم إرساله لرقم هاتفك";
+"Didn't receive the OTP? RESEND OTP"="لم يتم استلام الرمز المؤقت؟ إعادة إرسال الرمز المؤقت.";
+"Did you receive the OTP now?"="هل قمت باستلام الرمز المؤقت الآن؟";
+"UNDO SKIP"="إلغاء التخطي";
+"Having issues receiving the OTP?"="لم يتم استلام الرمز المؤقت؟ ";
+"Yes"="نعم";
+"No"="لا";
+"SKIP MOBILE OTP"="تخطي صفحة الرمز المؤقت";
+"Verify Email"="تأكيد البريد الإلكتروني";
+"Please enter the 4 digit code we've sent to your email id"="يرجى إدخال الرمز المؤقت المكون من 4 أرقام الذي تم إرساله للبريد الإلكترون";
+"OTP has been resent.\nYou will be able to resend the OTP again in"="OTP has been resent.\nYou will be able to resend the OTP again in";
+"seconds"="ثانية";
+"SKIP EMAIL OTP"="تخطي الرمز المؤقت للبريد الإلكتروني";
+"VERIFY DETAILS"="تأكيد البيانات";
+"Sorry!"="عذراً ";
+"You've entered an incorrect OTP 3 times in a row"="لقد قمت بإدخال الرمز المؤقت الخطأ 3 مرات متتالية";
+"BACK"="الجهة الخلفية";
+"CONTACT BANK"="اتصل بالبنك";
+
+"Contact Us"="اتصل بنا";
+"Contact Us detail"="";
+"Call Us"="تواصل معنا عبر الهاتف";
+"Email Us"="تواصل معنا عبر البريد الإلكتروني";
+
+"Select Citizenship"="الجنسية";
+"Select Citizenship Detail"="To procced with your application please select the citizenship";
+"Omani"="عماني";
+"We will need you to scan your Omani National ID"="يرجى القيام بالمسح الضوئي للبطاقة الشخصية";
+"Expatriate"="غير عماني";
+"We will need you to scan your Resident ID, Passport, and upload valid visa copy"="يرجى القيام بالمسح الضوئي لبطاقة المقيم وجواز السفر والتأشيرة";
+"GCC National"="خليجي";
+"We will need you to scan your National ID, and Passport"="يرجى القيام بالمسح الضوئي لبطاقة الهوية وجواز السفر ";
+
+"Schedule Video Call"="جدول مكالمة فيديو";
+"Schedule Video Call Detail"="يرجى توفير البيانات التالية لجدولة مكالمة مع فريق خدمة الزبائن";
+"Add a note"="اضف ملاحظة";
+"How can we help you?"="كيف يمكننا مساعدتك؟";
+"Select Date"="قم باختيار التاريخ";
+"Select Time"="قم باختيار الوقت";
+"SCHEDULE CALL"="جدول مكالمة فيديو";
+"Select Time slot"="الوقت المناسب";
+
+"Proof of Address"="إثبات عنوان الإقامة ";
+"To check your liveness, please upload a photo of your face at present"="للتحقق من هويتك، يرجى تحميل صورة وجه حديثة.";
+"Upload Proof of Address"="تحميل الملف";
+"List of documents considered as Proof of Address:"="قائمة المستندات المطلوبة لإثبات عنوان الإقامة";
+
+"Thank you!"="شكراً";
+"Thank you detail1"="تم استلام طلبك وسيقوم فريق خدمة الزبائن لدينا بإرسال رابط للمكالمة في الوقت المحدد ";
+"CONTINUE APPLICATION"="استمر في فتح الحساب";
+
+//omani
+"Omani"="عماني";
+"Please scan and upload your Omani national ID"="يرجى القيام بالمسح الضوئي وتحميل البطاقة الشخصية";
+"Scan Omani National ID"="Scan Omani National ID";
+"VIEW SCANNED IMAGES"="اظهار الملف";
+"HIDE SCANNED IMAGES"="اخفاء الملف";
+"Front"="الجهة الأمامية";
+"Back"="الجهة الخلفية";
+"Scan the front side of your National ID"="يرجى القيام بالمسح الضوئي للجهة الأمامية من بطاقة الهوية";
+"National ID - Front"="National ID - Front";
+"National ID - Back"="National ID - Back";
+"Scan the back side of your National ID"="يرجى القيام بالمسح الضوئي للجهة الخلفية من بطاقة الهوية";
+
+//Liveness check
+"Get ready for a selfie"="استعد لالتقاط صورة شخصية";
+"Liveness Check"="التحقق من الهوية";
+"Place your face in center and smile"="تأكد من مواجهتك للكاميرا الأمامية وابتسم";
+"We can't proceed further Facial Match Failed"="لا يمكن الاستمرار لفشل عملية التحقق من الهوية عن طريق الوجه";
+"Go back to retake liveness test"="الرجوع للتحقق من الهوية";
+"RETAKE"="RETAKE";
+"Facial Match or other details verification failed"="فشل عملية التحقق من الهوية عن طريق الوجه أو التفاصيل الأخرى ";
+"Please schedule a video call with one of our agents"="يرجى جدولة مكالمة فيديو مع فريق خدمة الزبائن";
+"You have failed 3 attempts for liveness check"="فشلت عملية التحقق من الهوية 3 مرات";
+"GO TO DASHBOARD"="لوحة التحكم";
+
+//Expatriate
+"Please scan and upload the following documents"="يرجى القيام بالمسح الضوئي وتحميل المستندات التالية";
+"Resident ID"="بطاقة المقيم";
+"Scan Resident ID"="قم بمسح بطاقة المقيم";
+"Passport"="جواز السفر";
+"Scan Passport"="قم بمسح جواز السفر";
+"Valid Visa"="تأشيرة الإقامة";
+"Upload Valid visa copy"="قم بتحميل نسخة محدثة من التأشيرة";
+"Scan the front side of your Resident ID"="قم بمسح الجهة الأمامية من بطاقة المقيم";
+"Scan the back side of your Resident ID"="قم بمسح الجهة الخلفية من بطاقة المقيم";
+"Resident ID - Front"="Resident ID - Front";
+"Resident ID - Back"="Resident ID - Back";
+"Scan the first page of your passport"="يرجى القيام بالمسح الضوئي للصفحة الأولى من جواز السفر";
+"Passport - First Page"="Passport - First Page";
+"Unfortunately your country is not supported"="Unfortunately your country is not supported";
+"CANCEL"="إلغاء";
+"CONTACT BANK"="اتصل بنا";
+
+//GCC Nationals
+"GCC Nationals"="خليجي";
+"Please scan and upload the following documents"="يرجى القيام بالمسح الضوئي وتحميل المستندات التالية";
+"National ID"="بطاقة الهوية";
+"Scan National ID"="قم بمسح البطاقة الشخصية";
+
+//Personal Information
+"Personal Information"="البيانات الشخصية";
+"Personal Information detail"="يرجى التأكيد واستكمال البيانات الشخصية ";
+"Please upload your photo holding the ID"="يرجى التقاط صورة \"سيلفي\" لك وأنت تحمل بطاقة الهوية";
+"Take Photo"="التقط صورة";
+"*optional"="*اختياري";
+"Address Details"="تفاصيل عنوان الإقامة";
+"Employment Details"="تفاصيل الوظيفة";
+"VIEW STEPS"="الاطلاع على الخطوات";
+"Full Name"="الإسم الكامل";
+"Date of Birth"="تاريخ الميلاد";
+"Gender"="الجنس";
+"Select"="اختر";
+"Nationality"="الجنسية";
+"ID No."="رقم بطاقة الهوية";
+"ID Expiry Date"="تاريخ انتهاء بطاقة الهوية";
+"Passport No"="رقم جواز السفر";
+"Passport Expiry Date"="تاريخ انتهاء جواز السفر";
+"Country of Birth"="مكان الميلاد (الدولة)";
+"City of Birth"="مكان الميلاد (المدينة)";
+"Enter City"="ادخل المدينة";
+"Country"="الدولة";
+"Residential Status"="الحالة";
+"Please Specify"="يرجى التحديد";
+"Please Specify Country"="Please Specify Country";
+"P.O Box"="صندوق البريد";
+"Enter P.O Box number"="Enter P.O Box number";
+"Postal Code"="الرمز البريدي";
+"House/Flat Number"="رقم المنزل/ الشقة";
+"Enter Number"="ادخل الرقم ";
+"City"="المدينة";
+"Area"="المنطقة";
+"Enter Area"="ادخل المنطقة";
+"Employment status"="حالة الوظيفة";
+"Industry"="حالة الوظيفة";
+"Employment sector"="قطاع التوظيف";
+"Employer Name"="جهة العمل";
+"Enter Employer Name"="اختر اسم جهة التوظيف";
+"Profession"="جهة العمل";
+"Name of Business"="نوع الأعمال التجارية";
+"Enter Name of Business"="اختر اسم المؤسسة";
+
+//Financial Information
+"Financial Information"="البيانات المالية";
+"Financial Information detail"="يرجى استكمال البيانات المالية ";
+"Income Details"="تفاصيل الدخل";
+"Monthly Transactions"="المعاملات الشهرية";
+"Usual Mode of transactions"="طريقة إجراء المعاملات";
+"Please upload a document as Proof Of Employment"="يرجى تحميل اثبات العمل";
+"Upload Document"="تحميل الملف";
+"Proof of Employment could be salary certificate or employment letter"=" اثبات العمل قد يكون شهادة راتب أو رسالة إلى من يهمه الأمر";
+"Salary Income"="الراتب";
+"Source of Funds"="مصدر الدخل";
+"Source of fund/ Name of provider"="مصدر الأموال / اسم المصدر";
+"Relationship with Customer"="العلاقة مع الزبون";
+"Occupation of Fund Provider"="اختر وظيفة الشخص الممول";
+"Monthly income range of fund provider"="Monthly income range of fund provider";
+"Do you have other income source?"="هل لديك أي مصدر دخل آخر؟";
+"Enter other income source"="Enter other income source";
+"Expected Credit Amount"="المبالغ المودعة المتوقعة شهرياً";
+"Expected No of Monthly debit transactions"="معاملات السحب المتوقعة شهرياً";
+"Expected Debit Amount"="المبالغ المسحوبة المتوقعة شهرياً";
+"Mention other mode of transaction"="اذكر المعاملات الأخرى";
+"Percentage of ownership"="نسبة الملكية";
+"Monthly Income"="الدخل الشهري للشركة";
+"Please specify your source of funds"="يرجى تحديد مصادر الدخل";
+"Enter source"=" تحديد المصدر ";
+"SUBMIT"="إرسال";
+
+//"Regularity Declaration"
+"Regularity Declaration"="الإفصاح ";
+"Regularity Declaration detail"="Lorem ipsum dolor sit amet, nulla mucius adqu. Lorem ipsum dolor sit amet, nulla mucius adqu.";
+"Purpose of opening an account?"="سبب الرغبة في فتح الحساب";
+"Are you holder of any US Documents?"="هل تحمل أية أوراق ثبوتية صادرة من الولايات المتحدة الأمريكية؟";
+"Are you Politically Exposed Person (PEP)?"="هل أنت شخص مكشوف سياسياً";
+"Are you a tax resident of a country other than Sultanate of Oman?"="هل تقوم بدفع الضرائب في أي دولة أخرى خارج سلطنة عمان؟";
+"Select Document"="اختر الملف";
+"Select your nearest branch"="اختر الفرع الأقرب إليك";
+"Enter purpose"="Enter purpose";
+"Are you holder of any of the following?"="Are you holder of any of the following?";
+
+//USNationality
+"US Document Details"="تفاصيل الوثائق الصادرة من الولايات المتحدة الأمريكية كما هو موضح في";
+"Address Information"="تفاصيل عنوان الإقامة";
+"Name (as shown on your income tax return)"="استمارة استرداد الضرائب";
+"Enter name"="ادخل الاسم";
+"Address"="عنوان الإقامة";
+"Enter address"="ادخل العنوان";
+"Street Name"="اسم الشارع";
+"Flat/Villa No."="رقم المنزل/ الشقة";
+"Enter no."="Enter no.";
+"State"="الولاية";
+"Zip Code"="الرمز البريدي";
+"Enter code"="Enter code";
+"Social security number / Employer identification number"="Social security number / Employer identification number";
+
+//TaxResidentofUSA
+"Are you a holder of any of the following?"="هل تحمل أي من الوثائق التالية؟";
+"US Document Details"="تفاصيل الوثائق الصادرة من الولايات المتحدة الأمريكية كما هو موضح في ";
+"Permanent Address Information"="العنوان الدائم";
+"Is your mailing address the same as any of the following?"="هل عنوان بريدك يطابق أي من العناوين التالية؟";
+"Permanent Address Information"="العنوان الدائم";
+"Name of individual who is the beneficial owner"=" اسم المستفيد";
+"Country of Citizenship"="الدولة التي تحمل جنسيتها";
+"U.S. taxpayer identification number (SSN or ITIN)"="رقم التسجيل الضريبي أو رقم التسجيل في نظام الأمان الإجتماعي في الولايات المتحدة الأمريكية";
+"Foreign tax identifying number"="رقم تسجيل ضريبي خارج  الولايات المتحدة الأمريكية";
+"Reference number(s)"="الرقم المرجعي";
+"Other"="أخرى";
+
+//PEP
+"PEP Details"="تفاصيل الشخص المكشوف سياسياً";
+"Type of PEP"="نوع الشخص المكشوف سياسياً";
+"Name of the PEP"="اسم الشخص المكشوف سياسياً";
+"Position of the PEP"="منصب الشخص المكشوف سياسياً";
+"Enter position"="Enter position";
+"Nationality of PEP"="جنسية الشخص المكشوف سياسياً";
+"Country of Residence of PEP"="دولة إقامة الشخص المكشوف سياسياً";
+"Relationship with the PEP"="علاقتك بالشخص المكشوف سياسياً";
+"Sorry!"="عذراً ";
+"Make sure you fill all mandatory details and then submit the form"="تأكد من تعبئة جميع البيانات المطلوبة قبل إرسال الاستمارة";
+
+//CRS
+"You have reached a maximum limit of 3 countries"="الحد الأقصى للدول المسجلة 3 دول";
+"ADD COUNTRY"="إضافة دولة";
+"Country/Jurisdiction of Tax residence"="الدولة/ تبعية التسجيل الضريبي";
+"Taxpayer Identification Number (TIN)"="رقم التسجيل الضريبي";
+
+//AddCountryCRS
+"REMOVE"="مسح";
+"Country Details"="تفاصيل الدولة ";
+"Country1ATitle"="السبب أ";
+"Country1ADetail"="الدولة التي بها تبعية التسجيل الضريبي لا تصدر رقم تسجيل ضريبي للمقيمين";
+"Country1BTitle"="السبب ب";
+"Country1BDetail"="لا يمكن لصاحب الحساب الحصول على رقم تسجيل ضريبي ";
+"Country1CTitle"="السبب ج";
+"Country1CDetail"="لا يتطلب وجود رقم تسجيل ضريبي (ملاحظة: قم باختيار هذا السبب فقط في حالة أن النظام في الدولة لا يتطلب التسجيل الضريبي من الجهات المعنية)";
+"Country2ATitle"="السبب أ";
+"Country2ADetail"="الدولة التي بها تبعية التسجيل الضريبي لا تصدر رقم تسجيل ضريبي للمقيمين";
+"Country2BTitle"="السبب ب";
+"Country2BDetail"="لا يمكن لصاحب الحساب الحصول على رقم تسجيل ضريبي ";
+"Country2CTitle"="السبب ج";
+"Country2CDetail"="لا يتطلب وجود رقم تسجيل ضريبي (ملاحظة: قم باختيار هذا السبب فقط في حالة أن النظام في الدولة لا يتطلب التسجيل الضريبي من الجهات المعنية)";
+"Country3ATitle"="السبب أ";
+"Country3ADetail"="الدولة التي بها تبعية التسجيل الضريبي لا تصدر رقم تسجيل ضريبي للمقيمين";
+"Country3BTitle"="السبب ب";
+"Country3BDetail"="لا يمكن لصاحب الحساب الحصول على رقم تسجيل ضريبي ";
+"Country3CTitle"="السبب ج";
+"Country3CDetail"="لا يتطلب وجود رقم تسجيل ضريبي (ملاحظة: قم باختيار هذا السبب فقط في حالة أن النظام في الدولة لا يتطلب التسجيل الضريبي من الجهات المعنية)";
+
+//"Review your application"
+"Review your application"="مراجعة الطلب";
+"Review your application detail"="Lorem ipsum dolor sit amet, nulla mucius adqu. Lorem ipsum dolor sit amet, nulla mucius adqu.";
+"DOWNLOAD PDF"="تحميل الملف بصيغة PDF";
+"SHARE PDF"="تحميل الملف بصيغة PDF";
+"CONFIRM"="تأكيد";
+"I'LL RETURN LATER"="I'LL RETURN LATER";
+
+//StepIndicator
+"of"="of";
+"steps"="steps";
+
+//Terms & Conditions
+"Terms & Conditions"="الشروط والأحكام";
+"My clicking Next, you agree to our Terms & Conditions"="النقر على التالي يعني الموافقة على الشروط والأحكام";
+
+//Add Signature
+"Add Signature"="إضافة توقيع";
+"Add Signature detail"="";
+"CHANGE SIGNATURE"="تغيير التوقيع";
+"SIGN ON SCREEN"="التوقيع على الشاشة";
+"UPLOAD SIGNATURE"="تحميل التوقيع";
+"CREATE ACCOUNT"="إنشاء حساب جديد";
+"Sign with your finger here."="تسجيل الدخول بالبصمة";
+"UPLOAD NEW SIGNATURE"="تحميل بيانات تسجيل الدخول";
+"Almost done!"="شارفنا على الانتهاء";
+"We just need to ensure we have all the information to set up your account.\nPlease fill the following form."="للتأكد من توفر البيانات اللازمة لإعداد الحساب، يرجى تعبئة الاستمارة التالية.";
+"CONTINUE"="استمر";
+
+//HighCustomer
+"Additional Information"="معلومات إضافية";
+"Please fill the missing details"="يرجى توفير البيانات المطلوبة";
+"Remittance Information"="بيانات التحويل النقدي";
+"Send Remittance"="التحويل النقدي";
+"Receive Remittance"="استقبال المبالغ النقدية المحولة";
+"Country #"="الدولة";
+"Name of the country to receive remaittances"="اسم دولة المستفيد";
+"Expected Purpose of remittance"="سبب التحويل";
+"Estimated Monthly Sales Turnover"="المبيعات المتوقعة شهرياً ";
+
+//VeryHighCustomer
+"Please upload a document as Commerical Registration (CR)"="يرجى تحميل ملف السجل التجاري";
+"Upload CR Copy"="تحميل نسخة من السجل التجاري";
+"Source of Wealth"="Source of Wealth";
+
+//Add-on Services
+"Add-on Services"="خدمات إضافية";
+"Add-on Services detail"="يرجى اختيار الخدمات المطلوبة الإضافية من القائمة التالية";
+"Debit Card"="بطاقة الصراف الآلي";
+"Debit Card detail"="Lorem ipsum dolor sit amet, nulla mucius adqu. Lorem ipsum dolor sit amet, nulla mucius adqu.";
+"Debit Card details"="تفاصيل بطاقة الصراف الآلي";
+"Debit Card details 1"=" بطاقة الصراف الآلي هي بطاقة خصم يمكن استخدامها لإجراء عملية السحب النقدي من الحساب، كم يطلق عليها \"بطاقة الخصم\" ويمكن استخدامها أيضاً للدفع عند الحصول على السلع والخدمات بالإضافة إلى عملية السحب النقدي.";
+"Mobile Banking"="الخدمات المصرفية عبر الهاتف النقال";
+"Mobile Banking detail"="Lorem ipsum dolor sit amet, nulla mucius adqu. Lorem ipsum dolor sit amet, nulla mucius adqu.";
+"Mobile banking details"="تفاصيل الخدمات المصرفية عبر الهاتف النقال";
+"Mobile banking details 1"="تتيح الخدمات المصرفية عبر الهاتف النقال للزبون إجراء المعاملات المصرفية على الأجهزة المحمولة (الهواتف والأجهزة اللوحية).";
+"Both"="كلاهما";
+"Both detail"="يرجى الإختيار للحصول على كلا الخدمتين";
+
+
+//Debit Card
+"We will generate a virtual card for you to use immediately"="سيتم إصدار بطاقة رقمية يمكنك استخدامها لآن";
+"By clicking Submit, you agree to our Terms & Conditions"="النقر على \"إرسال\" يعني الموافقة على الشروط والأحكام
+";
+"How will you receive the card?"="كيف تفضل استلام البطاقة؟ ";
+
+//AnyBranchInfo
+"Branch Details"="تفاصيل الفرع";
+"Kiosk Details"="تفاصيل جهاز الخدمة الذاتية";
+"Delivery Details"="تفاصيل التوصيل";
+"Select branch you would like to collect"="اختر الفرع الذي تود استلام البطاقة منه";
+"Date"="التاريخ";
+"Time"="الوقت";
+"Enter time"="Enter time";
+"Select Kiosk Location"="موقع جهاز الخدمة الذاتية";
+"Street Name"="اسم الشارع";
+"Flat/Villa name"="Flat/Villa name";
+
+//VirtualDebitCard
+"Debit card collection details submitted successfully!"="تم إرسال تفاصيل استلام بطاقة الصرا ف الآلي بنجاح";
+"Your Virtual Debit Card"="بطاقتك الرقمية";
+"You can start using your card right away, for any kind of online transaction"="يمكنك الآن استخدام البطاقة لجميع المعاملات الرقمية ";
+"Account No."="حساب رقم ";
+"Use your debit card with Apple Pay and Google Pay for secure payments."="استخدم بطاقتك على Apple Pay وGoogle Play واستمتع بمعاملات مصرفية آمنة ";
+
+//MobileBanking
+"Login Password"="كلمة السر للدخول";
+"Enter password"="Enter password";
+"Confirm Login Password"="تأكيد كلمة السر للدخول";
+"Transaction Password"="الرمز السري للعاملات";
+"Confirm Transaction Password"="تأكيد الرمز السري للمعاملات";
+
+//MobileBankingSubmitted
+"Mobile Banking details submitted"="تم استلام تفاصيل الخدمات المصرفية عبر الهاتف النقال";
+"Your details have been submitted. You can now login with the your account details."="تم استلام التفاصيل خاصة بك. يمكنك الآن استخدام الخدمات المصرفية عبر الهاتف النقال ";
+"GO TO LOGIN PAGE"="الذهاب لصفحة تسجيل الدخول";
+
+"TermAndCond_Text"="تحكم هذه الشروط واألحكام العامة استخدام كافة الحسابات والخدمات بواسطة الزبون. من المعلوم أنه يتوجب  قراءة الشروط واألحكام العامة بالتزامن مع الشروط واألحكام اإلضافية التي بموجبها يتم توفير أي حساب أو خدمة. في حالة وجود تعارض بين الشروط واألحكام العامة والشروط واألحكام اإلضافية تسود الشروط واالحكام اإلضافية للحد من ذلك التعارض  \n\nيوافق الزبون على معاينة كل كشف حساب بعناية تامة و إشعار البنك كتابيا على الفور بأي أخطاء ترد في كشف الحساب، أي فروقات، خصومات مشكوك / مشتبه بها أو مغايرة للمألوف )ولكن في فترة ال تتجاوز  )30 )يوما من تاريخ إستالم كشف الحساب المعني( إذ لم يقم الزبون بإشعار البنك بوجود أخطاء، يعتبر ذلك دليال على موافقته على ما ورد في كشف الحساب
+\n\nكافة كشوفات الحساب المستلمة من قبل الزبون عبر الوسائل اإللكترونية )على سبيل المثال ال الحصر الفاكس والبريد إإللكتروني وأجهزة الصراف اآللي والرسائل النصية القصيرة ( تشكل نسخة طبق األصل من كشوفات الحساب، و سيتم إعدادها بوسائل إلكترونية وسيتم إستخراج المعلومات الواردة بها من أنظمة البنك. سيتخذ البنك كافة الخطوات الالزمة لضمان صحة كشف الحساب و لن يكون البنك مسئوال عن أي أخطاء أو محذوفات في كشف الحساب.";

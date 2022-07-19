@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>NSAppleMusicUsageDescription</key>
+    <string>Allow to access photo library service for upload photo</string>
+    <key>NSCameraUsageDescription</key>
+    <string>Allow to access photo library service for upload photo</string>
+    <key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+    <string>Allow to access location service because your loaction display other user</string>
+    <key>NSLocationAlwaysUsageDescription</key>
+    <string>Allow to access location service because your loaction display other user</string>
+    <key>NSLocationWhenInUseUsageDescription</key>
+    <string>Allow to access location service because your loaction display other user</string>
+    <key>NSMicrophoneUsageDescription</key>
+    <string>Allow to access microphone service for recourd audio</string>
+    <key>NSPhotoLibraryUsageDescription</key>
+    <string>Allow to access photo library service for upload your profile photo</string>
+	<key>UIApplicationSceneManifest</key>
+	<dict>
+		<key>UIApplicationSupportsMultipleScenes</key>
+		<false/>
+		<key>UISceneConfigurations</key>
+		<dict>
+			<key>UIWindowSceneSessionRoleApplication</key>
+			<array>
+				<dict>
+					<key>UISceneConfigurationName</key>
+					<string>Default Configuration</string>
+					<key>UISceneDelegateClassName</key>
+					<string>$(PRODUCT_MODULE_NAME).SceneDelegate</string>
+					<key>UISceneStoryboardFile</key>
+					<string>Main</string>
+				</dict>
+			</array>
+		</dict>
+	</dict>
+	<key>UIUserInterfaceStyle</key>
+	<string>Yes</string>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsArbitraryLoads</key>
+		<true/>
+	</dict>
+	<key>UIFileSharingEnabled</key>
+	<true/>
+	<key>LSSupportsOpeningDocumentsInPlace</key>
+	<true/>
+</dict>
+</plist>
